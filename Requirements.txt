@@ -1,0 +1,2 @@
+tk # Tkinter for main program
+requests # requests for sending Comments to my telegram
